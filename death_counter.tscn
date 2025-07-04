@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://c5xtwt4200b5j"]
+
+[node name="DeathCounter" type="CanvasLayer"]
+
+[node name="Label" type="Label" parent="."]
+offset_right = 40.0
+offset_bottom = 23.0
+size_flags_horizontal = 4
